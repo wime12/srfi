@@ -6,7 +6,7 @@
 (compile-options no-global-state: #t)
 (declare
  (separate)) ; This library cannot be compiled with (block). Should be
-             ; fixable, though let's do that sometime else.
+             ;   fixable, though let's do that sometime else.
 
 ;; SRFI-19: Time Data Types and Procedures.
 ;; 
